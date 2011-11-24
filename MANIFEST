@@ -12,4 +12,5 @@ t/boilerplate.t
 t/manifest.t
 t/pod.t
 eg/demo_all.pl
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
