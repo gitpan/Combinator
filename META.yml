@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Combinator
-version:            0.04
+version:            0.04.01
 abstract:           Intuitively write async program serially, parallel, or circularly
 author:
     - Cindy Wang (CindyLinz)
